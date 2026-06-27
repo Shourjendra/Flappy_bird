@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: skyblue;
+
+}
+
+canvas {
+    display: block;
+    margin: auto;
+    background: lightblue;
+}
